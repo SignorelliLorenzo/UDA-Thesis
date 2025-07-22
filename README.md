@@ -20,7 +20,7 @@ The approach lays the groundwork for future work in continual domain adaptation,
 
 ## Documents
 
-- 📄 [`thesis.pdf`](./thesis.pdf) — Full thesis document  
+- 📄 [`thesis.pdf`](./main.pdf) — Full thesis document  
 - 📄 [`summary.pdf`](./summary.pdf) — Thesis summary
 
 ---
