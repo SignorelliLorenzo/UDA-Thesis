@@ -1,4 +1,4 @@
-# Thesis Repository: Pseudo-Label Refinement for Unsupervised Domain Adaptation in Semantic Segmentation **USING SAM**
+# Thesis Repository: Pseudo-Label Refinement for Unsupervised Domain Adaptation in Semantic Segmentation using sam
 
 This repository hosts the final documents for my **Bachelor thesis**, where I overhauled the pipeline originally developed by Jonas Frey and integrated the **Segment Anything Model (SAM)** into the semantic segmentation and 3D mapping process. The core contribution is the use of SAM to refine pseudo-labels, improving domain adaptation performance without requiring manual annotations.
 
